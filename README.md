@@ -65,15 +65,7 @@ Moral Foundations are identified using the **Moral Foundation Dictionary (MFD)**
 ## Contributions & Citation
 Researchers and developers are encouraged to contribute. Fork the repository, create feature branches, and submit pull requests.
 
-For citation:
-```bibtex
-@article{moralFoundationAndSentimentAnalysis2025,
-  author    = {NLV Madhav},
-  title     = {Moral Foundation Analysis of Twitter Tweets in the Indian Context},
-  year      = {2025},
-  url       = {https://github.com/your-username/moralFoundations}
-}
-```
+
 
 ## License
 This project is released under the **MIT License**.
